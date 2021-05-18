@@ -16,7 +16,7 @@
 Upon using or accessing the Website and/or Service(s), you agree and warrant that you
 - **are currently 13 years of age or above**
 - **have read and agree to be bound by the Terms**
-The Company reserves the right, at Our sole discretion, to modify, replace, or remove any part of the Terms at any time, with or without notice to You. 
+The Company reserves the right, at Our sole discretion, to modify, replace, or remove any part of the Terms at any time, with or without notice to You. Should you object changes to these Terms, you shall discontinue all use of Our Service(s) and/or Website(s).
 
 ## Your Data, Content, and Rights
 Any text, graphics, images, videos, photographs uploaded to the Service by You is hereby referred to as "Your Content" or "Content". You represent and warrant that Your Content is exclusively owned and/or controlled by you, and that you own rights to that content, including, but not limited to, the right to grant rights outlined in the Terms without any liability, obligations, and/or agreements to the Company due to the rights and license of such content. Your Content is exclusively your sole responsibility, and you agree that the Company is not responsible nor liable for any Content that You upload or make available to the Service.
